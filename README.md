@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi, I'm Keith. 👋
 
-<!--
-**kitimi88/kitimi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about making web applications using Django but alway keen to learn with new ideas. I enjoy working with Python and currently learning generative A.I. 
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
