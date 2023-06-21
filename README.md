@@ -1,10 +1,10 @@
 ## Hello world, I'm Keith. 😎
 
-Passionate about creating web application and a true aficianado of the Django framework.
-
-- 🌱 I’m currently learning generative A.I. and other harmless boring stuff.
-- 👯 I’m looking to collaborate on other creators.
-- 🎯 Goals: Learn more about A.I.
+Passionate about creating web application and a true aficionado of the Django framework.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Anaconda and looking forward to know more about data science.
+- 👯 I’m looking to collaborate on other friendly creators.
+- 🎯 Goals: Learn advanced Django, Conda and/or Python and be able to share tips and workarounds. 
 - ⚡ Fun fact: I play guitar, ukulele, bass, and drums, and I'm a big fan of grunge. Listening to music helps me a lot when I'm experiencing mental blocks.
 
 ---
